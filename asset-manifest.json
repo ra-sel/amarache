@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/amarache/static/css/main.0a315abb.chunk.css",
+    "main.js": "/amarache/static/js/main.65c33f75.chunk.js",
+    "main.js.map": "/amarache/static/js/main.65c33f75.chunk.js.map",
+    "runtime-main.js": "/amarache/static/js/runtime-main.366e7ae3.js",
+    "runtime-main.js.map": "/amarache/static/js/runtime-main.366e7ae3.js.map",
+    "static/js/2.44e846c9.chunk.js": "/amarache/static/js/2.44e846c9.chunk.js",
+    "static/js/2.44e846c9.chunk.js.map": "/amarache/static/js/2.44e846c9.chunk.js.map",
+    "index.html": "/amarache/index.html",
+    "precache-manifest.586b83db3890469521c5c02e0b8acae8.js": "/amarache/precache-manifest.586b83db3890469521c5c02e0b8acae8.js",
+    "service-worker.js": "/amarache/service-worker.js",
+    "static/css/main.0a315abb.chunk.css.map": "/amarache/static/css/main.0a315abb.chunk.css.map",
+    "static/js/2.44e846c9.chunk.js.LICENSE.txt": "/amarache/static/js/2.44e846c9.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.366e7ae3.js",
+    "static/js/2.44e846c9.chunk.js",
+    "static/css/main.0a315abb.chunk.css",
+    "static/js/main.65c33f75.chunk.js"
+  ]
+}
